@@ -1,4 +1,7 @@
 # FCND - Backyard Flyer Project
+![Demo gif](./backyard-flyer-demo.gif)
+
+
 In this project, I set up a state machine using event-driven programming to autonomously fly a quadcopter. My implementation is based on the starting code provided by Udacity as part of the [Flying Car and Autonomous Flight Engineer Nanodegree](http://https://www.udacity.com/course/flying-car-nanodegree--nd787 "Flying Car and Autonomous Flight Engineer Nanodegree"). I used Unity flying simulator provided by the programme. Setup instructions, APIs used and details on my implementation are listed below.
 
 ## Step 1: Download the Simulator
